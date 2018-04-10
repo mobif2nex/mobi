@@ -32,6 +32,6 @@ After the pre-Ico and Ico phases, the tokens will be converted into Mobi - which
 
 Smart contract is published in Ethereum blockchain.
 
-Address is https://etherscan.io/address/0xb238922f1ee01a77f6bda72deaaea78c47726fed
+Address is https://etherscan.io/token/0xb238922f1ee01a77f6bda72deaaea78c47726fed
 
 The complete whitepaper can be accessed at http://cryptomobi.mobi/assets/files/mobi_en.pdf
