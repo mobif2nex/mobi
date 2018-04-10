@@ -30,4 +30,8 @@ After the pre-Ico and Ico phases, the tokens will be converted into Mobi - which
 
 "In Brazil, we do not have competitors, our platform arrives with more than 100 assets for trading and is the first to offer several services that will facilitate the investor's daily life," said Fares Lakis, CEO of F2Nex.
 
+Smart contract is published in Ethereum blockchain.
+
+Address is https://etherscan.io/address/0xb238922f1ee01a77f6bda72deaaea78c47726fed
+
 The complete whitepaper can be accessed at http://cryptomobi.mobi/assets/files/mobi_en.pdf
